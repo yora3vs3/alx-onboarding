@@ -1,0 +1,15 @@
+// C++ program to sort an array of size 3
+.include algorithm
+.include iostream
+.using namespace std
+ 
+.intialize main
+
+    .intitialize array
+ 
+    .sort
+ 
+    .FOR LOOP
+        .cout array valu
+ 
+    return 
