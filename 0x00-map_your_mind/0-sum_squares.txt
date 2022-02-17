@@ -1,0 +1,5 @@
+	Input a number from the user.
+•	Pass the number to get Values () method.
+•	Inside the method, declare a variable a and initialize it with the input number. Also, declare rem, and sum variable with 0.
+•	Iterate over the number till it is not equal to 0. Retrieve each digit from the number and find its square and add them to store it into the sum variable.
+•	At last, just print the value of the sum variable.
