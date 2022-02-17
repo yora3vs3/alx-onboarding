@@ -1,0 +1,8 @@
+Enter positive numbers or negative number to stop
+ sum 
+ user input
+ WHILELOOP
+  sum
+  user input
+
+ OUTPUT
